@@ -2,6 +2,7 @@ import time
 import pandas as pd
 import numpy as np
 
+
 """Purpose: Use Python, Pandas, NumPy, to explore US bikeshare data for three cities (Chicago, New York, and Washington) 
     
     by Tran Hoang An Binh
